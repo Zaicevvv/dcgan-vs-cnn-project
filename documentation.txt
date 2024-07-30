@@ -1,0 +1,15 @@
+generator
+https://colab.research.google.com/drive/1bMRWPSdMHpagU_289mGUuM7SIEU2PITi?usp=sharing
+
+cnn
+https://github.com/IgorIlnicki/Diplom1/tree/main
+
+first button
+Evaluate CNN with random CIFAR-10 image
+
+second button
+Generate image with DCGAN and show CNN prediction
+
+
+pip install 
+tensorflow streamlit numpy lightning torchmetrics torch==2.3.1+cpu torchvision==0.18.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
